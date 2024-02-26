@@ -1,6 +1,6 @@
 <strong>1. Install Git:</strong>
 <pre><code> sudo apt-get update && sudo apt-get upgrade -y</code></pre>
-<pre><code> sudo apt-get install git </code></pre>
+<pre><code> sudo apt-get install git -y </code></pre>
 
  <strong>2. Clone the Repo:</strong></code></pre>
 <pre><code>git clone https://github.com/flexcomng/erpnext_quick_install.git</code></pre>
